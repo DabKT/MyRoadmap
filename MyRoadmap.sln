@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "If-else2", "If-else2\If-els
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "If-else3", "If-else3\If-else3.vcxproj", "{98721A55-C2B3-4DBE-99CB-34E60CED8A64}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "If-else4", "If-else4\If-else4.vcxproj", "{782E7ABE-C792-400C-A872-4C5A1E767AAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{98721A55-C2B3-4DBE-99CB-34E60CED8A64}.Release|x64.Build.0 = Release|x64
 		{98721A55-C2B3-4DBE-99CB-34E60CED8A64}.Release|x86.ActiveCfg = Release|Win32
 		{98721A55-C2B3-4DBE-99CB-34E60CED8A64}.Release|x86.Build.0 = Release|Win32
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Debug|x64.ActiveCfg = Debug|x64
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Debug|x64.Build.0 = Debug|x64
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Debug|x86.Build.0 = Debug|Win32
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Release|x64.ActiveCfg = Release|x64
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Release|x64.Build.0 = Release|x64
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Release|x86.ActiveCfg = Release|Win32
+		{782E7ABE-C792-400C-A872-4C5A1E767AAA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
